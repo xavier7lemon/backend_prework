@@ -16,5 +16,5 @@ games = gets.chomp.to_i
 print "Is there anything else you like to do in #{hometown}? \n "
 likes_to = gets.chomp
 
-puts "\n So you're from #{hometown}, near #{university}; the #{mascot}. Your like the #{sport} team and have been to #{games} games. You also #{likes_to} in #{hometown}. \n
+puts "\n So you're from #{hometown}, near #{university}; the #{mascot}. You like the #{sport} team and have been to #{games} games. You also #{likes_to} in #{hometown}. \n
 You seem alright, let's be friends. "
